@@ -1,0 +1,42 @@
+h1 {
+	background-color:black;
+	color:white;
+	font-family:verdana, geneva, sans-serif;
+	font-size:22px;
+	border: none;
+}
+
+
+.deviceline {
+	background-color:black;
+	color:white;
+	font-family:verdana, geneva, sans-serif;
+	font-size:22px;
+	border: none;
+	padding-bottom:10px;
+	padding-top:10px;
+	text-shadow:Navy 4px 3px; color:white;
+}
+
+.osline {
+	background-color:black;
+	color:white;
+	font-family:verdana, geneva, sans-serif;
+	font-size:16px;
+	border: none;
+	padding-bottom:20px;
+	padding-top:10px;
+	text-shadow:Navy 2px 1px; color:white;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 16px;
+    width: 600px;
+    margin: 0 auto; 
+    padding: 20px 60px; 
+    box-sizing: border-box; 
+}
